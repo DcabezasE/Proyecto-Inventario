@@ -1,10 +1,9 @@
 # ProyectoPoo
 1. Definición del problema:
 Problema planteado:
+“La gestión de inventarios en pequeñas y medianas empresas a menudo se realiza de manera manual o con sistemas ineficientes, lo que puede llevar a errores en el       registro   de entradas y salidas de productos, así como en el control del stock.”
 
-“La gestión de inventarios en pequeñas y medianas empresas a menudo se realiza de manera manual o con sistemas ineficientes, lo que puede llevar a errores en el registro de entradas y salidas de productos, así como en el control del stock.”
 Objetivo:
-
 Desarrollar una solución automatizada que permita registrar entradas y salidas de productos de manera eficiente, actualizando el inventario en tiempo real y evitando errores comunes en la gestión manual.
 
 2. Explicación de la solución:
