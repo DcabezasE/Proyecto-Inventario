@@ -25,12 +25,3 @@ class Inventario:
                 break
         else:
             print("Producto no encontrado")
-
-    def obtener_inventario(self):
-        print("Inventario actual:")
-        for i in self.productos:
-            print(f"{i.nombre}: {i.cantidad} x ${i.precio}")
-
-
-    
-
