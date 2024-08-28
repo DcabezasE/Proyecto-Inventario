@@ -1,4 +1,4 @@
-# ProyectoPoo
+# Proyecto-inventario
 
 ## Definición del problema:
 La gestión de inventarios en pequeños y medianos emprendimientos, como las chazas de la universidad, que una es la motivación de este proyecto, a menudo se realiza de manera manual a papel o con sistemas ineficientes, lo que puede llevar a errores en el registro de entradas y salidas de productos o desfalcos de plata, así como en el control del stock en inventario o bodega.
