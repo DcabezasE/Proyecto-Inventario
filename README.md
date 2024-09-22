@@ -18,4 +18,4 @@ Se diseñó un sistema básico de gestión de inventario en Visual Studio a base
 
 
 ## Diagrama de clases:
-![image](https://github.com/user-attachments/assets/7f6f45e6-8875-4f5c-ba68-3b6a90c3d167)
+![Imagen de WhatsApp 2024-09-22 a las 15 56 00_1df7953a](https://github.com/user-attachments/assets/32c32b75-1672-401d-95ba-93a64c170bc9)
