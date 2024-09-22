@@ -21,6 +21,7 @@ Se diseñó un sistema básico de gestión de inventario en Visual Studio a base
 
 # Instrucciones de Instalación y Uso
 Todos los comandos son en la windows powershell
+
 -Primero, clona el repositorio desde GitHub:
 ```
 git clone https://github.com//DcabezasE/Proyecto-Inventario.git
